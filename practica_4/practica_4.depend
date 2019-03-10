@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1547375460 source:c:\codeuned\practica_4\tipomenu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tipomenu.h"
+
+1547375324 c:\codeuned\practica_4\tipomenu.h
+	"GestionReservasAgua.h"
+
+1547382396 c:\codeuned\practica_4\gestionreservasagua.h
+	"CalendarioMes.h"
+
+1547312185 c:\codeuned\practica_4\calendariomes.h
+
+1547312693 source:c:\codeuned\practica_4\practica_4.cpp
+	"TipoMenu.h"
+
+1547312695 source:c:\codeuned\practica_4\calendariomes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CalendarioMes.h"
+
+1547382396 source:c:\codeuned\practica_4\gestionreservasagua.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GestionReservasAgua.h"
+
