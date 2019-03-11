@@ -1,9 +1,5 @@
 /***********************************************
- * NOMBRE: #Carlos Jose#
- * PRIMER APELLIDO: #De la Calleja#
- * SEGUNDO APELLIDO: #Llado#
- * DNI: #43047154#
- * EMAIL: #ccalleja1@alumno.uned.es#
+ * Autor: Carlos de la Calleja
  *
  * PROGRAMA: PRACTICA_4
  * DESCRIPCION:
